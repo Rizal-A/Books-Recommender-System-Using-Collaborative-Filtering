@@ -8,6 +8,8 @@ Dataset : [Kaggle Book Dataset](https://www.kaggle.com/datasets/saurabhbagchi/bo
 
 Tools : Jupyter Notebook and Visual Studio
 
+Thanks to [entbappy](https://github.com/entbappy) or [DSwithBappy](https://www.youtube.com/watch?v=cGoAhtl-5jA&list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&index=13&ab_channel=DSwithBappy) for reference!
+
 For Book Recommendations With Collaborative Filtering can be seen here : [Streamlit Link](https://books-recommender-system-using-collaborative-filtering07.streamlit.app/)
 
 # Collaborative Based :
@@ -18,7 +20,7 @@ Book recommendation using cluster mechanism and parameters used are ratings or r
 
 In short, collaborative filtering systems are based on the assumption that if a user likes item A and another user likes the same item A as well as another item, i.e. item B, then the first user may also be interested in the second item.
 
-Issues are :
+**Cons using Collaborative Filtering :**
 
 - User-Item using n X n matrix, so the computation cost is expensive
 - Only the most popular will be chosen
