@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Books Recommender System
+Home-page: https://github.com/Rizal-A/Books-Recommender-System-Using-Collaborative-Filtering
+Author: Rizal-A
+Author-email: fakhrizal.a.ahadiat@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Books-Recommender-System-Using-Collaborative-Filtering
