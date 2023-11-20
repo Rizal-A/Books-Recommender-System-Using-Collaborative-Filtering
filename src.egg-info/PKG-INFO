@@ -7,5 +7,7 @@ Author: Rizal-A
 Author-email: fakhrizal.a.ahadiat@gmail.com
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
 
 Books-Recommender-System-Using-Collaborative-Filtering

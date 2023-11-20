@@ -1,12 +1,13 @@
 import pickle
 import streamlit as st
 import numpy as np
+import pandas as pd
 
 st.header('Books Recommendation System using Collaborative Filtering')
-model = pickle.load(open('books/model.pkl', 'rb'))
-book_name = pickle.load(open('books/book_name.pkl', 'rb'))
-final_data = pickle.load(open('books/final_data.pkl', 'rb'))
-book_pivot = pickle.load(open('books/book_pivot.pkl', 'rb'))
+model = pd.read_pickle('books/model.pkl')
+book_name = pd.read_pickle('books/book_name.pkl')
+final_data = pd.read_pickle('books/final_data.pkl')
+book_pivot = pd.read_pickle('books/book_pivot.pkl')
 
 
 def fecth_poster(suggestion):
