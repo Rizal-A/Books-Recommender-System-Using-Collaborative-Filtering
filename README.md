@@ -1,4 +1,4 @@
-# Books-Recommender-System-Using-Collaborative-Filtering
+# Books Recommender System Using Collaborative Filtering
 
 ![book-recommendations](https://github.com/Rizal-A/Books-Recommender-System-Using-Collaborative-Filtering/blob/main/assets/Book%20Recommendation.png)
 
